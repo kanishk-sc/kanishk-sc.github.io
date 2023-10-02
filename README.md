@@ -15,12 +15,15 @@ Computer Science, BS
 ### Project Experience
 #### Birla Vidya Niketan 
 - Bank Management System; New Delhi, India (Jan 2021 - May 2021)
+
       - Developed a bank management system using SQL and Python which automated data entry tasks and improved
         efficiency by not manually entering individual information.
       - Led a team of 4 software engineers to develop the program in 6 months.
       - Trained juniors on the program.
+  
 #### Birla Vidya Niketan
 - Quiz Maker; New Delhi, India (Nov 2021 - Dec 2021)
+  
       - Developed an application which takes various questions from a file, picked randomly, and puts together a quiz for
         students.
       - Each quiz can be different and then reads a key to grade the quizzes.
